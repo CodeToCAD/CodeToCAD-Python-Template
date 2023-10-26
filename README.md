@@ -6,7 +6,7 @@ Please install the CodeToCAD Python Package to get syntax highlighting.
 
 > Note: Python 3.10+ is required.
 
-`pip install CodeToCAD`
+`pip install codetocad`
 
 Check out the latest updates to CodeToCAD in the main repo: [https://github.com/CodeToCAD/CodeToCAD](https://github.com/CodeToCAD/CodeToCAD)
 

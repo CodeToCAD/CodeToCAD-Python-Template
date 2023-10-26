@@ -1,3 +1,3 @@
-from CodeToCAD import *
+from codetocad import *
 
-Part("My Cube").createCube("1m", "100cm", "200cm")
+Part("My Cube").create_cube("1m", "100cm", "200cm")
